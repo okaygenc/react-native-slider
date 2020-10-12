@@ -1,5 +1,8 @@
 {
   "expo": {
+    "experiments": {
+      "turboModules": true
+    },
     "name": "swipe-akinon",
     "slug": "swipe-akinon",
     "version": "1.0.0",
@@ -13,9 +16,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },

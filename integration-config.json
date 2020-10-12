@@ -1,0 +1,20 @@
+/*{
+  "file": "3.json",
+  "listPath": "swipers.0.swiper.image_set",
+  "itemImageKey": "image_url"
+}
+*/
+ 
+/*
+{
+    "file": "2.json",
+    "listPath": "images",
+    "itemImageKey": "link"
+}
+*/
+
+{
+  "file": "1.json",
+  "listPath": null,
+  "itemImageKey": "url"
+}
